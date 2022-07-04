@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arturo1997/app-tareas/static/css/main.1eae7c62.css",
+    "main.js": "/arturo1997/app-tareas/static/js/main.0f3d1e52.js",
+    "static/js/787.a5cad257.chunk.js": "/arturo1997/app-tareas/static/js/787.a5cad257.chunk.js",
+    "index.html": "/arturo1997/app-tareas/index.html",
+    "main.1eae7c62.css.map": "/arturo1997/app-tareas/static/css/main.1eae7c62.css.map",
+    "main.0f3d1e52.js.map": "/arturo1997/app-tareas/static/js/main.0f3d1e52.js.map",
+    "787.a5cad257.chunk.js.map": "/arturo1997/app-tareas/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eae7c62.css",
+    "static/js/main.0f3d1e52.js"
+  ]
+}
